@@ -2,9 +2,8 @@
 action_label: Read More &rarr;
 action_link: /about
 action_type: text
-description: I am an Assistant Professor of Informatics at the [Luddy School of Informatics,
-Computing, and Engineering](https://luddy.indiana.edu/index.html) at Indiana University Bloomington, where I teach in the
-[HCI/design program](https://luddy.indiana.edu/research/research-areas/hci-luddy.html)
+description: | 
+    I am an Assistant Professor of Informatics at the [Luddy School of Informatics, Computing, and Engineering](https://luddy.indiana.edu/index.html) at Indiana University Bloomington, where I teach in the [HCI/design program](https://luddy.indiana.edu/research/research-areas/hci-luddy.html)
 image_left: true
 images:
 - img/ElizabethKaziunas-1.jpg
