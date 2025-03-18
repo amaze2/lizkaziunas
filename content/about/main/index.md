@@ -1,15 +1,15 @@
 ---
 ## Configure page content in wide column
-title: "Why apéro?" # leave blank to exclude
-number_featured: 1 # pulling from mainSections in config.toml
+title: "About" # leave blank to exclude
+number_featured: 0 # pulling from mainSections in config.toml
 use_featured: false # if false, use most recent by date
-number_categories: 3 # set to zero to exclude
+number_categories: 0 # set to zero to exclude
 show_intro: true
 intro: |
-  Apéro is a unique kind of casual get-together in French culture, when you gather with friends and get to know each other better over some apéritifs, snacks, and anything in between. A good apéro is one where you'd happily spend a few hours just hanging out.
+  My research contributes to the fields of human-computer interaction (HCI), computer-supported cooperative work (CSCW) and health informatics by examining the social and organizational contexts of health information systems and lived experiences of health datafication. As an interpretivist researcher, I draw together ethnographic methods and human-centered design approaches to examine people’s everyday health practices and explore the possibilities (and critical dependencies) that come with using health information and technology.
   
-  I hope this theme helps you create your own virtual apéro. A place where you and your site's visitors enjoy spending time, and one that helps folks get to know you better. 
-show_outro: true
+  Previously, I was a Research Lead of the Algorithmic Care Project and Postdoctoral Researcher at AI Now Institute, an organization dedicated to investigating the social impacts of artificial intelligence, where I researched AI/ML technologies in healthcare setttings. I received my Ph.D. from University of Michigan's School of Information, M.S. from Syracuse University’s School of Information Studies, M.A. from Yale University, and B.A. from Macalester College.
+show_outro: false
 outro: |
   <i class="fas fa-glass-cheers pr2"></i>Sincere thanks to [Maëlle Salmon](https://masalmon.eu/) for her help naming this Hugo theme!
 ---

@@ -2,11 +2,11 @@
 cascade:
   headless: true
 description: |
-  A website template for Hugo developed by RStudio & Formspree and available for free.
+  About Elizabeth Kaziunas
 headless: false
-show_header: true
+show_header: false
 sidebar_left: false
-title: About
+title: About Me
 ---
 
 ** index doesn't contain a body, just front matter above.
