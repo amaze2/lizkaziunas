@@ -33,13 +33,13 @@ enableEmoji = true
   orgLocal = "Luddy School of Informatics, Computing, and Engineering"
   description = "Elizabeth Kaziunas' Personal Website"
   favicon = "/img/favicon.ico"
-  logo = ""
+  logo = "/img/favicon-32x32.png"
   mainSections = ["about", "projects", "publications"]
   navallcaps = true
   # show/hide social icons in site header & footer
   # configure social icons and links below in [[params.social]]
   socialInHeader = false
-  socialInFooter = true
+  socialInFooter = false
   # Default image for social sharing and search engines. 
   # Place image file in `static` folder and specify image name here.
   sharing_image = "/img/ElizabethKaziunas-1.jpg"
@@ -123,10 +123,10 @@ enableEmoji = true
   #    icon      = "rss" # icon name without the 'fa-'
   #    icon_pack = "fas"
   #    url       = "/blog/index.xml"
-  [[params.social]]
-    icon      = "envelope" # icon name without the 'fa-'
-    icon_pack = "fas"
-    url       = "mailto:ekaziuna@iu.edu"
+  # [[params.social]]
+  #  icon      = "envelope" # icon name without the 'fa-'
+  #  icon_pack = "fas"
+  #  url       = "mailto:ekaziuna@iu.edu"
   [[params.social]]
     icon      = "orcid" # icon name without the 'fa-'
     icon_pack = "fab"
@@ -161,16 +161,21 @@ enableEmoji = true
     # title = "Blog"
     # url = "/blog/"
     # weight = 2
-  [[menu.header]]
-    name = "Projects"
-    title = "Project Portfolio"
-    url = "/project/"
-    weight = 2
+  # [[menu.header]]
+  #  name = "Projects"
+  #  title = "Project Portfolio"
+  #  url = "/project/"
+  #  weight = 2
   [[menu.header]]
     name = "Publications"
     title = "Publications"
     url = "/publications/"
     weight = 3
+  [[menu.header]]
+    name = "Contact"
+    title = "Contact Form"
+    url = "/contact/"
+    weight = 4
     
   # Configure footer  
   # [[menu.footer]]
@@ -178,11 +183,11 @@ enableEmoji = true
   #  title = "License"
   #  url = "/license/"
   #  weight = 1
-  [[menu.footer]]
-    name = "Contact"
-    title = "Contact form"
-    url = "/contact/"
-    weight = 2
+  # [[menu.footer]]
+  #  name = "Contact"
+  #  title = "Contact form"
+  #  url = "/contact/"
+  #  weight = 2
   # [[menu.footer]]
   #  name = "Contributors"
   #  title = "Contributors"

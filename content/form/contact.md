@@ -1,6 +1,6 @@
 ---
 date: "2019-02-25T13:38:41-06:00"
-description:
+description: Use this form to email me.
 draft: false
 formspree_form_id: ekaziuna@iu.edu
 layout: split-right
