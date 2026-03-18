@@ -15,7 +15,7 @@ description: |
 
   **Kaziunas, E.**, Klinkman, M.S., and Ackerman, M.S. (2019). [Precarious Interventions: Designing for Ecologies of Care.](https://doi.org/10.1145/3359215) *Proceedings of the ACM on Human-Computer Interaction (PACM HCI), CSCW*, Article 113, 27 pages. 
 
-  Whittaker, M., Alper, M., Bennett, C.L., Hendren, S., **Kaziunas, E.**, et al. (2019 [Disability, Bias, and AI.](https://ainowinstitute.org/publications/disabilitybiasai-2019) *AI Now Institute.* 
+  Whittaker, M., Alper, M., Bennett, C.L., Hendren, S., **Kaziunas, E.**, et al. (2019). [Disability, Bias, and AI.](https://ainowinstitute.org/publications/disabilitybiasai-2019) *AI Now Institute.* 
 
   Crawford, K., Dobbe, R., Dryer, T., Fried, G., Green, B., **Kaziunas, E.**, et al. (2019). 
   [AI Now Report 2019.](https://ainowinstitute.org/publications/ai-now-2019-report-2) *AI Now Institute.* 
