@@ -44,7 +44,7 @@ enableEmoji = true
   # Place image file in `static` folder and specify image name here.
   sharing_image = "/img/ElizabethKaziunas-1.jpg"
   # Twitter username (without @). Used when a visitor shares your site on Twitter.
-  twitter = "ekaziunas"
+  # twitter = "ekaziunas"
   
   # use a built-in color theme
   # one of: earth / forest / grayscale / magma / paper / peach / plum /
@@ -139,10 +139,6 @@ enableEmoji = true
     icon      = "linkedin" # icon name without the 'fa-'
     icon_pack = "fab"
     url       = "https://www.linkedin.com/in/elizabeth-kaziunas-43a1973/"
-  [[params.social]]
-    icon      = "x-twitter" # icon name without the 'fa-'
-    icon_pack = "fab"
-    url       = "https://twitter.com/ekaziunas"
 
 [taxonomies]
   category = "categories"
@@ -206,7 +202,7 @@ enableEmoji = true
     disable = false
     simple = true
   [privacy.x]
-    disable = false
+    disable = true
     enableDNT = true
     simple = false
   [privacy.vimeo]
