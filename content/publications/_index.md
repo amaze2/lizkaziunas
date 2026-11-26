@@ -5,7 +5,11 @@ show_author_byline: false
 show_title_as_header: true
 description: |
 
-  Wang, C.H.A., **Kaziunas, E.**, and Chung, C.F. (2025). [“It's Too Much On Top of Your Own Food Drama”: Exploring Food Allergy Identity and Experience Through Social Media.](https://doi.org/10.1145/3706598.3714126) *Proceedings of the 2025 CHI Conference on Human Factors in Computing Systems (CHI '25).* ACM, Article 959, 1–18. 
+  Bosco, C., Otenen, E., Shih, P.C., and **Kaziunas, E.** (2026). [Care-in-Retrograde: Designing for Reproductive Health in the Aftermath of Roe.](https://doi.org/10.1145/3772318.3791212) *Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems (CHI '26)*. ACM, Article 770, 1–19. 
+  
+  Mirizio, A. and **Kaziunas, E.** (2026). [In the Shadows of Transparency: Engaging Concealment in AI-Mediated Crisis.](https://doi.org/10.1145/3805689.3812383) *Proceedings of the 2026 ACM Conference on Fairness, Accountability, and Transparency (FAccT '26)*. ACM, 5756–5777. 
+
+  Wang, C.H.A., **Kaziunas, E.**, and Chung, C.F. (2025). [“It's Too Much On Top of Your Own Food Drama”: Exploring Food Allergy Identity and Experience Through Social Media.](https://doi.org/10.1145/3706598.3714126) *Proceedings of the 2025 CHI Conference on Human Factors in Computing Systems (CHI '25)*. ACM, Article 959, 1–18. 
 
   Wu, Y., Miller, A.D., Chung, C.F., and **Kaziunas, E.** (2024). ["The struggle is a part of the experience": Engaging Discontents in the Design of Family Meal Technologies.](https://doi.org/10.1145/3687016) *Proceedings of the ACM on Human-Computer Interaction (PACM HCI), CSCW2*, Article 477, 33 pages. 
 
